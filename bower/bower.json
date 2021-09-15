@@ -1,0 +1,21 @@
+{
+  "name": "bower",
+  "description": "init file i guess",
+  "main": "",
+  "authors": [
+    "notaturkey <tommytocool5@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/notaturkey/30TechnologiesIn30Days",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
